@@ -13,7 +13,7 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
-[bgImage](backgroundWeather.png)
+![bgImage](backgroundWeather.png)
 
 ## Installation
 💾 Clone this repo. Run npm i in the command line. and then deploy your live application. 
